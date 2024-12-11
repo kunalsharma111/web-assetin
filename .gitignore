@@ -39,7 +39,6 @@ tmp/
 
 # Ignore build outputs (in case some generated output is in root)
 dist/
-build/
 
 # npm debug files
 npm-debug.log*
